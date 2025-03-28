@@ -1,0 +1,4 @@
+fastapi==0.110.2  #Die FastAPI-Bibliothek für die Entwicklung von schnellen und asynchronen Web-APIs.
+uvicorn[standard]==0.29.0 #ein ASGI-Server, der FastAPI-Anwendungen ausführt
+python-multipart==0.0.9 # rmöglicht das Parsen von multipart/form-data (z. B. für Datei-Uploads in HTTP-Requests).
+
